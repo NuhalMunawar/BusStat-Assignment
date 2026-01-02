@@ -1,6 +1,6 @@
 import math
 
-def calculate_full_match_stats(home_xg, away_xg, max_goals=10):
+def calculate_full_match_stats(home_xg, away_xg, max_goals=100):
     """
     Calculates individual goal probabilities AND match outcome probabilities.
     """
